@@ -1,2 +1,2 @@
 # Kata-babysitter
-A babysitter rate calculater written in ruby 
+A babysitter rate calculater written in ruby. 
